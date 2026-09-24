@@ -1,2 +1,2 @@
 # E-Commerce
-this is my first project
+this is shopping platform project
